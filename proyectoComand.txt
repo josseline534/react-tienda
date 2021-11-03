@@ -105,3 +105,22 @@ Paso 14:
 Paso 15:
     15.1. Integracion con paypal
     15.2. npm i react-paypal-button-v2 --save
+
+Paso 16:
+    desarrollo
+
+Paso 17:
+    17.1. Subir el proyecto a github
+    17.2. Ingresar y crar proyecto en firebase
+    17.3. Ingresar a hosting
+    17.4. npm install -g firebase-tools
+    17.5. firebase login
+    17.6. firebase init
+    17.7. Seleccionar Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
+    17.8. What do you want to use as your public directory? dist
+    17.9. Configure as a single-page app (rewrite all urls to /index.html)? yes
+    17.10.  Set up automatic builds and deploys with GitHub? no
+    17.11. File dist/index.html already exists. Overwrite? no
+    17.12. Subir los cambios a GitHub
+    17.13. Crear archivo .github/workflows/deploy-to-firebase.yml
+    17.14.
