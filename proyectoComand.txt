@@ -123,4 +123,6 @@ Paso 17:
     17.11. File dist/index.html already exists. Overwrite? no
     17.12. Subir los cambios a GitHub
     17.13. Crear archivo .github/workflows/deploy-to-firebase.yml
-    17.14.
+    17.14. Generar token firebase login:ci
+    17.15. Repositorio settings secrets newRepositorySecret FIREBASE_TOKEN
+    17.16. Subir cambios a github
